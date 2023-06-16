@@ -1,0 +1,30 @@
+/* Jumbotron */
+body {
+  background-image: url("img/wave.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.jumbotron {
+  padding: 6rem;
+  padding-bottom: 2rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* position: relative;
+  -webkit-mask-image: linear-gradient(black, transparent);
+  mask-image: linear-gradient(black, transparent); */
+}
+.container-fluid {
+  background-color: #fff;
+  opacity: 0.9;
+}
+.section {
+  padding: 6rem;
+}
+
+.logo {
+  font-style: bold;
+  color: gold;
+}
